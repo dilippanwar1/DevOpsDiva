@@ -5,3 +5,8 @@ steps:
     echo $STATE_BUCKET
     echo $INSTANCE_SIZE
   displayName: 'Show Variable Values'
+
+variables:
+- group: FWD-VARS
+
+
