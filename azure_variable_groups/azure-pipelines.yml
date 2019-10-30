@@ -9,4 +9,7 @@ steps:
 variables:
 - group: FWD-VARS
 
+echo $dev
+echo $prod
+echo $uat
 
